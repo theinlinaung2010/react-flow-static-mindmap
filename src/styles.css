@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Long+Cang&display=swap");
+
+body {
+  margin: 0;
+}
+
+#root {
+  font-family: "Long Cang", sans-serif;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
